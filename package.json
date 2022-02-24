@@ -1,0 +1,20 @@
+{
+  "name": "cryptproxyserver",
+  "version": "1.0.0",
+  "description": "Proxy server for encryption and decryption data",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liuqingbo/CryptProxyServer.git"
+  },
+  "author": "QingboLiu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liuqingbo/CryptProxyServer/issues"
+  },
+  "homepage": "https://github.com/liuqingbo/CryptProxyServer#readme"
+}
